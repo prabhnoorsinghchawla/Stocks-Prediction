@@ -11,4 +11,4 @@ After running the test data on the LSTM model, the predictions were pretty close
 
 After developing the whole model, I predicted the stocks from today and compared them with the actual value. Here is the result from that.
 
-![This is a graph of the predictions for today and the actual value](https://github.com/prabhnoorsinghchawla/Stocks-Prediction/blob/master/present-day.png)
+![This is a graph of the predictions for today and the actual value](https://github.com/prabhnoorsinghchawla/Stocks-Prediction/blob/master/present_day.png)
